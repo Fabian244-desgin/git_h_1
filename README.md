@@ -1,4 +1,0 @@
-Hacks1_social_oplesk
-
-H1: 
-ENVIAR UN COMMIT AL REPOSITORIO REMOTO
